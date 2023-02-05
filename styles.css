@@ -44,12 +44,21 @@ p{
     padding: 1vh;
 }
 
+
 body{
     color:white;
     background: rgb(44, 161, 44)
 }
 
 .recipe-steps{
+    text-decoration: underline;
+}
+
+.ingredients-h3{
+    text-decoration: underline;
+}
+
+.pizza-desc-heading{
     text-decoration: underline;
 }
 
