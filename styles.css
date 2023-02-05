@@ -54,6 +54,7 @@ body{
 
 .recipe-div{
     border:6px dotted rgb(83, 96, 239);
+    border-radius: 4%;
     margin-top: 0rem;
 }
 
