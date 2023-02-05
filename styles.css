@@ -36,6 +36,7 @@ p{
     margin: auto;
     height: auto;
     width: 60vh;
+    box-shadow: 3px 3px rgb(207 221 75), -1em 0 0.4em #bebe3f;
 }
 
 .pizza-paragraph1{
