@@ -27,6 +27,8 @@ p{
 }
 
 .pizza-img {
+    display: block;
+    margin: auto;
     height: auto;
     width: 60vh;
 }
@@ -34,16 +36,6 @@ p{
 .pizza-paragraph1{
     margin-top:2vh;
     padding: 1vh;
-}
-
-.marg-pic{
-         height: auto;
-        width: 60vh;
-}
-
-.bfc-img{
-        height: auto;
-        width: 80vh;
 }
 
 body{
