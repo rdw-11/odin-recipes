@@ -52,7 +52,9 @@ body{
     text-decoration: underline;
 }
 
-.recipe-div
+.recipe-div{
+    border:6px dotted rgb(83, 96, 239);
+}
 
 #recipe-link{
     text-align: center;
