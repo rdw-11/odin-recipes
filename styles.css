@@ -22,6 +22,9 @@
     color: black;
 }
 
+p{
+    text-indent: 30px;
+}
 
 .pizza-img {
     height: auto;
