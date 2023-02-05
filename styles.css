@@ -1,4 +1,9 @@
-.odin-head{
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+h1{
+    font-family: 'Muli', sans-serif;
+    font-size: 45px;
+    letter-spacing: 9px;
     text-align: center;
 }
 
@@ -49,6 +54,7 @@ body{
 
 .recipe-div{
     border:6px dotted rgb(83, 96, 239);
+    margin-top: 0rem;
 }
 
 #recipe-link{
